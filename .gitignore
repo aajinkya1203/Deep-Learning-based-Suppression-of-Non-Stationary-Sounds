@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+datasets/cv-corpus/training_clips
+datasets/cv-corpus/training_clips2
+datasets/UrbanSound8K/audio/fold1
+datasets/UrbanSound8K/audio/fold2
